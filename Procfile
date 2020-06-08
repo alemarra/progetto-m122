@@ -1,0 +1,1 @@
+we: gunicorn event_ticket.wsgi
